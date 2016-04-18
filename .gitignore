@@ -1,0 +1,10 @@
+#过滤的数据库文件，配置文件，日志文件
+*.log
+.project
+
+#过滤的文件夹Application/Runtime
+Application/Runtime/
+.idea
+
+.buildpath
+.settings/
